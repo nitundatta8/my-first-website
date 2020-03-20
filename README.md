@@ -1,6 +1,6 @@
 # My First Web Page
 **Basic Html for Epicodus, 03.16.2020**
-### Made by Jason Macie
+### Made by Nitun Datta
 ## Description
 #### This is my first attempt at a web page.
 ## Setup
